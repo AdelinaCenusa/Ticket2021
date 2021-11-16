@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PricingDetails>
+    <PriceBandList>
+        <PriceBand>
+            <hour>16</hour>
+            <minute>0</minute>
+            <pricingRate>Peak</pricingRate>
+        </PriceBand>
+        <PriceBand>
+            <hour>19</hour>
+            <minute>0</minute>
+            <pricingRate>OffPeak</pricingRate>
+        </PriceBand>
+    </PriceBandList>
+    <offPeakRate>2.5</offPeakRate>
+    <peakRate>5.0</peakRate>
+</PricingDetails>

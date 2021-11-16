@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- from https://simple.wikipedia.org/wiki/List_of_London_Underground_stations -->
+<StationList>
+    <Station>
+        <name>Abbey Road</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Acton Town</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Aldgate</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Aldgate East</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>All Saints</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Alperton</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Amersham</name>
+        <zone>9</zone>
+    </Station>
+    <Station>
+        <name>Angel</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Archway</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Arnos Grove</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Arsenal</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Baker Street</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Balham</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Bank</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Barbican</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Barking</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Barkingside</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Barons Court</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Bayswater</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Beckton</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Beckton Park</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Becontree</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Belsize Park</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Bermondsey</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Bethnal Green</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Blackfriars</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Blackhorse Road</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Blackwall</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Bond Street</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Borough</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Boston Manor</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Bounds Green</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Bow Church</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Bow Road</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Brent Cross</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Brixton</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Bromley-by-Bow</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Buckhurst Hill</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Burnt Oak</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Caledonian Road</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Camden Town</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Canada Water</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Canary Wharf</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Canary Wharf</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Canning Town</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Cannon Street</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Canons Park</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Chalfont and Latimer</name>
+        <zone>8</zone>
+    </Station>
+    <Station>
+        <name>Chalk Farm</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Chancery Lane</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Charing Cross</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Chesham</name>
+        <zone>9</zone>
+    </Station>
+    <Station>
+        <name>Chigwell</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Chiswick Park</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Chorleywood</name>
+        <zone>7</zone>
+    </Station>
+    <Station>
+        <name>Clapham Common</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Clapham North</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Clapham South</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Cockfosters</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Colindale</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Colliers Wood</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Covent Garden</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Crossharbour</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Croxley</name>
+        <zone>7</zone>
+    </Station>
+    <Station>
+        <name>Custom House</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Cutty Sark</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>for Maritime Greenwich</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Cyprus</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Dagenham East</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Dagenham Heathway</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Debden</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Deptford Bridge</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Devons Road</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Dollis Hill</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Ealing Broadway</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Ealing Common</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Earl's Court</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>East Acton</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>East Finchley</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>East Ham</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>East India</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>East Putney</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Eastcote</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Edgware</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Edgware Road</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Edgware Road</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Elephant and Castle</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Elm Park</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Elverson Road</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Embankment</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Epping</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Euston</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Euston Square</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Fairlop</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Farringdon</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Finchley Central</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Finchley Road</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Finsbury Park</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Fulham Broadway</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Gallions Reach</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Gants Hill</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Gloucester Road</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Golders Green</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Goldhawk Road</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Goodge Street</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Grange Hill</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Great Portland Street</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Greenford</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Green Park</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Greenwich</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Gunnersbury</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Hainault</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Hammersmith</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Hammersmith</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Hampstead</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Hanger Lane</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Harlesden</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Harrow and Wealdstone</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Harrow-on-the-Hill</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Hatton Cross</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Heathrow Terminals 1, 2, 3</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Heathrow Terminal 4</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Heathrow Terminal 5</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Hendon Central</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Heron Quays</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>High Barnet</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Highbury and Islington</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Highgate</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>High Street Kensington</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Hillingdon</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Holborn</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Holland Park</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Holloway Road</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Hornchurch</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Hounslow Central</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Hounslow East</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Hounslow West</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Hyde Park Corner</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Ickenham</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Island Gardens</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Kennington</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Kensal Green</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Kensington (Olympia)</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Kentish Town</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Kenton</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Kew Gardens</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Kilburn</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Kilburn Park</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>King George V</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Kingsbury</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>King's Cross St. Pancras</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Knightsbridge</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Ladbroke Grove</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Lambeth North</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Langdon Park</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Latimer Road</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Leicester Square</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Lewisham</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Leyton</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Leytonstone</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Limehouse</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Liverpool Street</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>London Bridge</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>London City Airport</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Loughton</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Maida Vale</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Manor House</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Mansion House</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Marble Arch</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Marylebone</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Mile End</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Mill Hill East</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Monument</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Moorgate</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Moor Park</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Morden</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Mornington Crescent</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Mudchute</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Neasden</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Newbury Park</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>North Acton</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>North Ealing</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>North Greenwich</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>North Harrow</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>North Wembley</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Northfields</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Northolt</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Northwick Park</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Northwood</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Northwood Hills</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Notting Hill Gate</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Oakwood</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Old Street</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Osterley</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Oval</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Oxford Circus</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Paddington</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Park Royal</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Parsons Green</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Perivale</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Piccadilly Circus</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Pimlico</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Pinner</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Plaistow</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Pontoon Dock</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Poplar</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Preston Road</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Prince Regent</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Pudding Mill Lane</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Putney Bridge</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Queen's Park</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Queensbury</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Queensway</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Ravenscourt Park</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Rayners Lane</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Redbridge</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Regent's Park</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Richmond</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Rickmansworth</name>
+        <zone>7</zone>
+    </Station>
+    <Station>
+        <name>Roding Valley</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Royal Albert</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Royal Oak</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Royal Victoria</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Ruislip</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Ruislip Gardens</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Ruislip Manor</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Russell Square</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>St. James's Park</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>St. John's Wood</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>St. Paul's</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Seven Sisters</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Shadwell</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Shepherd's Bush</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Shepherd's Bush Market</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Sloane Square</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Snaresbrook</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>South Ealing</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>South Harrow</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>South Kensington</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>South Kenton</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>South Quay</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>South Ruislip</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>South Wimbledon</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>South Woodford</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Southfields</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Southgate</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Southwark</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Stamford Brook</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Stanmore</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>Stepney Green</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Stockwell</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Stonebridge Park</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Stratford</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Sudbury Hill</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Sudbury Town</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Swiss Cottage</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Temple</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Theydon Bois</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Tooting Bec</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Tooting Broadway</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Tottenham Court Road</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Tottenham Hale</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Totteridge and Whetstone</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Tower Gateway</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Tower Hill</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Tufnell Park</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Turnham Green</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Turnpike Lane</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Upminster</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Upminster Bridge</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Upney</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Upton Park</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Uxbridge</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>Vauxhall</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Victoria</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Walthamstow Central</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Wanstead</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Warren Street</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Warwick Avenue</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Waterloo</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>Watford</name>
+        <zone>7</zone>
+    </Station>
+    <Station>
+        <name>Wembley Central</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Wembley Park</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>West Acton</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>West Brompton</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>West Finchley</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>West Ham</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>West Hampstead</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>West Harrow</name>
+        <zone>5</zone>
+    </Station>
+    <Station>
+        <name>West India Quay</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>West Kensington</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>West Ruislip</name>
+        <zone>6</zone>
+    </Station>
+    <Station>
+        <name>West Silvertown</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Westbourne Park</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Westferry</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Westminster</name>
+        <zone>1</zone>
+    </Station>
+    <Station>
+        <name>White City</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Whitechapel</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Willesden Green</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Willesden Junction</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Wimbledon</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Wimbledon Park</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Wood Green</name>
+        <zone>3</zone>
+    </Station>
+    <Station>
+        <name>Wood Lane</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Woodford</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Woodside Park</name>
+        <zone>4</zone>
+    </Station>
+    <Station>
+        <name>Woolwich Arsenal</name>
+        <zone>4</zone>
+    </Station>
+</StationList>

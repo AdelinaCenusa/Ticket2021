@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StationList>
+    <Station>
+        <name>Abbey Road</name>
+        <zone>2</zone>
+    </Station>
+    <Station>
+        <name>Acton Town</name>
+        <zone>3</zone>
+    </Station>
+</StationList>
