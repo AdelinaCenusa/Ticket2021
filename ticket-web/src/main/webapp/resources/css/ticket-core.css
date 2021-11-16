@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "open sans", sans-serif;
+
+  --colour-1st: white;
+  --colour-2nd: red;
+  --colour-3rd: blue;
+  --colour-4th: darkgrey;
+  --colour-5th: lightgrey;
+}
+
+#wrapper {
+  width: 80%;
+  margin: auto;
+}
+
+#lunderground-header {
+  height: 7em;
+  display: flex;
+  flex-direction: row;
+  background-color: var(--colour-4th);
+  text-align: center;
+}
+
+#lunderground-header img {
+  max-height: 5em;
+  padding: 1em 1em 1em 1em;
+}
+
+#lunderground-header h1 {
+  flex-grow: 1;
+  justify-content: center;
+  margin: auto;
+}
+
+#main-content {
+  text-align: center;
+}
+
+#messages {
+  margin: 3em auto 0;
+}
+
+#lunderground-footer {
+  position: fixed;
+  bottom: 0;
+}
+
+#ticket-xml {
+  width: 100%;
+}
+
+.gate-button {
+  margin-top: 1em;
+  padding: 1em 2em;
+  font-size: large;
+}
+
+#gateStatus {
+  margin: 3em auto 0;
+  width: 100%;
+}
+
+#gate-closed {
+  background: indianred;
+  font-size: xxx-large;
+}
+
+#gate-open {
+  background: lightgreen;
+  font-size: xxx-large;
+}

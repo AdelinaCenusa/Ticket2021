@@ -1,0 +1,26 @@
+#config-machine {
+  margin: 7em auto 0;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form p {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+}
+
+form .col-label {
+  width: 10%;
+}
+
+form .col-value {
+  width: 20%;
+}
+
+button {
+  padding: 0 1em;
+}
